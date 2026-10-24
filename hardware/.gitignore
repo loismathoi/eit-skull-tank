@@ -19,3 +19,8 @@ fp-info-cache
 *.net
 *.dsn
 *.ses
+
+.kicad-push
+
+# exports
+*.pdf
