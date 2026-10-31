@@ -2,5 +2,9 @@ name: eit-skull-tank
 channels:
  - conda-forge
 dependencies:
- - python=3.11
- - pyeit=1.2.4
+  - python=3.11
+  - pyeit=1.2.4
+  - pip
+  - pip:
+    - pyadi-iio
+    - pylibiio==0.25
