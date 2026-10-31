@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=3.11
   - pyeit=1.2.4
+  - matplotlib
   - pip
   - pip:
     - pyadi-iio
