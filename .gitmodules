@@ -1,3 +1,4 @@
 [submodule "firmware/no-OS"]
 	path = firmware/no-OS
 	url = https://github.com/loismathoi/no-OS
+	shallow = true
