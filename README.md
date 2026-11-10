@@ -1,8 +1,14 @@
 # EIT Skull Tank
 
+> [!WARNING]
+> Work in progress. Incomplete and subject to change.
+
+> [!NOTE]
+> This README was written entirely by an AI agent (Claude Code).
+
 A 16-electrode electrical impedance tomography (EIT) system and a 2D saline tank phantom. EIT injects a small AC current through pairs of electrodes, measures the resulting voltages, and reconstructs a conductivity image. CALVA is the project's PCB.
 
-![CALVA PCB placeholder](docs/images/calva-placeholder.svg)
+![CALVA rev 1.0 bare PCB, top side above, bottom side below](img/calva-v1.0.jpg)
 
 ## Research question
 
