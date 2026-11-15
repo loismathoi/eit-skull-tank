@@ -15,9 +15,9 @@
 
 ## Files
 
-- eit-skull-tank/: KiCad 10 project.
-- eit-skull-tank.pdf: schematic.
-- Sheets: usb_power, mcu, iso_power, iso_comm, afe, mux.
+- [eit-skull-tank/](eit-skull-tank/): KiCad 10 project.
+- [eit-skull-tank.pdf](eit-skull-tank.pdf): schematic.
+- Sheets: [usb_power](eit-skull-tank/usb_power.kicad_sch), [mcu](eit-skull-tank/mcu.kicad_sch), [iso_power](eit-skull-tank/iso_power.kicad_sch), [iso_comm](eit-skull-tank/iso_comm.kicad_sch), [afe](eit-skull-tank/afe.kicad_sch), [mux](eit-skull-tank/mux.kicad_sch).
 
 ## Fabrication
 

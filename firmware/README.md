@@ -1,6 +1,6 @@
 # Firmware
 
-- no-OS/: fork of Analog Devices' [no-OS](https://github.com/analogdevicesinc/no-OS), branch calva, submodule.
+- [no-OS/](https://github.com/loismathoi/no-OS/tree/calva): fork of Analog Devices' [no-OS](https://github.com/analogdevicesinc/no-OS), branch calva, submodule.
 - Project cn0565, variant eit_iio.
 - Get it: `git submodule update --init firmware/no-OS`
 
@@ -16,4 +16,4 @@
 
 ## Licence
 
-- no-OS keeps its own licences, see no-OS/COPYING.
+- no-OS keeps its own licences, see [no-OS/COPYING](https://github.com/loismathoi/no-OS/blob/calva/COPYING).

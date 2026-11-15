@@ -3,24 +3,24 @@
 
 # Electrical Impedance Tomography Skull Phantom
 
-16-electrode EIT system and FDM-printed head phantom, built to see how a skull analogue interacts with EIT imaging.
+16-electrode EIT system and FDM-printed head phantom, built to see how a skull analogue interacts with EIT imaging and ischemia detection.
 
 ## Goals
-- How accurate is EIT on a 3D-printed and quasi-2D tank?
+- How accurate is EIT on a 3D-printed, quasi-2D tank?
 - How does the inclusion of a skull-ring impact measurement accuracy?
 - Can a neural network improve accuracy and detectable inclusion size compared to GREIT?
 
 ## Repository
 
-- hardware/: PCB and tank design files.
-- firmware/: code that runs on the PCB.
-- sim/: simulation of the tank.
-- img/: photos.
-- environment.yml: Python environment.
+- [hardware/](hardware/): PCB and tank design files.
+- [firmware/](firmware/): code that runs on the PCB.
+- [sim/](sim/): simulation of the tank.
+- [img/](img/): images.
+- [environment.yml](environment.yml): Python environment.
 
 ## System
 
-- CALVA: the PCB, details in hardware/README.md.
+- CALVA: the PCB, details in [hardware/README.md](hardware/README.md).
 - Tank: 3D-printed, TODO.
 
 ## Status
@@ -39,6 +39,6 @@
 
 ## Licence
 
-- hardware/: CERN-OHL-P v2, see hardware/LICENSE.
-- firmware/no-OS: its own licences, see firmware/no-OS/COPYING.
-- Everything else: MIT, see LICENSE.
+- [hardware/](hardware/): CERN-OHL-P v2, see [hardware/LICENSE](hardware/LICENSE).
+- [firmware/no-OS](https://github.com/loismathoi/no-OS/tree/calva): its own licences, see [firmware/no-OS/COPYING](https://github.com/loismathoi/no-OS/blob/calva/COPYING).
+- Everything else: MIT, see [LICENSE](LICENSE).
