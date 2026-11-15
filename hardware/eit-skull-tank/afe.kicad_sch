@@ -8,6 +8,8 @@
 		(title "Analog Front End")
 		(rev "1.0")
 		(company "Lois Mathoi")
+		(comment 1 "Copyright 2026 Lois Mathoi. Licensed under CERN-OHL-P v2, https://cern.ch/cern-ohl")
+		(comment 2 "Source: https://github.com/loismathoi/eit-skull-tank")
 	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
