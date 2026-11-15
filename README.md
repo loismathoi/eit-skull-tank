@@ -27,7 +27,7 @@
 
 - Done: PCB rev 1.0 designed and fabricated.
 - Done: stock firmware builds, not flashed yet.
-- Done: basic simulation of the tank with GREIT reconstruction.
+- Done: basic simulation of the tank with GREIT reconstruction (See  [here](/img/sim-greit-ring.png)).
 - TODO: PCB assembly and bring-up.
 - TODO: tank design and printing.
 - Planning: data acquisition.
