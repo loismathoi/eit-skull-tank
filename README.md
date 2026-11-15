@@ -14,7 +14,7 @@
 
 - [hardware/](hardware/): PCB and tank design files.
 - [firmware/](firmware/): code that runs on the PCB.
-- [sim/](sim/): simulation of the tank.
+- [sim/](sim/): simulation of the phantom.
 - [img/](img/): images.
 - [environment.yml](environment.yml): Python environment.
 
@@ -37,8 +37,8 @@
 
 - [CN0565](https://www.analog.com/en/resources/reference-designs/circuits-from-the-lab/CN0565.html), [EVAL-ADICUP3029](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/eval-adicup3029.html), [no-OS](https://github.com/analogdevicesinc/no-OS), [pyEIT](https://github.com/eitcom/pyEIT)
 
-## Licence
+## License
 
 - [hardware/](hardware/): CERN-OHL-P v2, see [hardware/LICENSE](hardware/LICENSE).
-- [firmware/no-OS](https://github.com/loismathoi/no-OS/tree/calva): its own licences, see [firmware/no-OS/COPYING](https://github.com/loismathoi/no-OS/blob/calva/COPYING).
+- [firmware/no-OS](https://github.com/loismathoi/no-OS/tree/calva): its own licenses, see [firmware/no-OS/COPYING](https://github.com/loismathoi/no-OS/blob/calva/COPYING).
 - Everything else: MIT, see [LICENSE](LICENSE).

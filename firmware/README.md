@@ -14,6 +14,6 @@
 
 - SWD probe on J2, add `--probe openocd --flash`. Not tested yet.
 
-## Licence
+## License
 
-- no-OS keeps its own licences, see [no-OS/COPYING](https://github.com/loismathoi/no-OS/blob/calva/COPYING).
+- no-OS keeps its own licenses, see [no-OS/COPYING](https://github.com/loismathoi/no-OS/blob/calva/COPYING).
