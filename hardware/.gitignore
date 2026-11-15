@@ -24,7 +24,7 @@ fp-info-cache
 
 # exports
 *.pdf
-!/eit-skull-tank/eit-skull-tank.pdf
+!/eit-skull-tank.pdf
 *.png
 *.zip
 Gerber/
