@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "eit-skull-tank")(type "KiCad")(uri "${KIPRJMOD}/eit-skull-tank.kicad_sym")(options "")(descr "Project-local symbols"))
+)
